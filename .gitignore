@@ -1,0 +1,32 @@
+# Python virtual environments & packages
+project_1/
+venv/
+.venv/
+env/
+ENV/
+knowledge/
+site-packages/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables & secrets
+.env
+*.pem
+*.key
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System & Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large temporary files
+*.log
+temp.pdf
+temp_temp.pdf
